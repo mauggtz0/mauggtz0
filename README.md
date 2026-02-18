@@ -3,8 +3,6 @@
 
 - 🔭 Zoo comercializadora **Digital Order Control & Validation System**
 
--Portfolio at [https://www.notion.so/Mauricio-Garc-a-QA-Engineer-Jr-30b5afd952d480ef8d7ee6539515d56f?source=copy_link]
-
 - 👨‍💻 All of my projects are available at [https://github.com/mauggtz0](https://github.com/mauggtz0)
 
 - www.linkedin.com/in/mauriciogarcia-qa **mauggtz0@gmail.com**
