@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mauricio Garcia</h1>
+<h1 align="center">Hola Mauricio Garcia</h1>
 <h3 align="center">QA Engineer Jr | IT Support Specialist (10+ yrs) | Manual Testing | Jira | Postman | Digital Transformation Leader | Process Optimization</h3>
 
 - 🔭 Zoo comercializadora **Digital Order Control & Validation System**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mauggtz0](https://github.com/mauggtz0)
+- 👨‍💻 All of my projects are available at [https://www.notion.so/Mauricio-Garc-a-QA-Engineer-Jr-30b5afd952d480ef8d7ee6539515d56f?source=copy_link](https://www.notion.so/Mauricio-Garc-a-QA-Engineer-Jr-30b5afd952d480ef8d7ee6539515d56f?source=copy_link)
 
 - www.linkedin.com/in/mauriciogarcia-qa **mauggtz0@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zsDxRKN0D7tVOp7q69go-NHMCAlJDSdM/view?usp=sharing](https://drive.google.com/file/d/1zsDxRKN0D7tVOp7q69go-NHMCAlJDSdM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
