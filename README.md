@@ -1,4 +1,68 @@
-<h1 align="center">Hola Mauricio Garcia</h1>
+# 👋 Hola, soy Mauricio Garcia
+
+## 🚀 QA Engineer Jr | IT Support Specialist (10+ años)
+
+Transformando experiencia en soporte IT en calidad de software. Apasionado por la automatización y las pruebas manuales.
+
+---
+
+### 🔭 Proyecto Destacado
+
+#### 🛒 Urban Grocers - Automatización de pruebas API
+> Automatización completa para endpoint de creación de kits de productos
+
+- ✅ **9 casos de prueba** implementados (positivos y negativos)
+- 🐛 **4 bugs identificados** en la API real
+- 🐍 **Tecnologías:** Python, pytest, requests
+- 📊 **Técnica:** Análisis de valores límite (BVA)
+- 🔗 **[Ver repositorio](https://github.com/mauggtz0/qa-project-Urban-Grocers-app-es)**
+
+---
+
+### 💼 Proyecto actual
+
+🔭 **Zoo comercializadora** - Sistema de control y validación de órdenes digitales
+
+---
+
+### 📚 Mi portafolio
+
+👨‍💻 Todos mis proyectos están disponibles en:
+**[Mi portafolio en Notion](https://www.notion.so/Mauricio-Garc-a-QA-Engineer-Jr-30b5afd952d480ef8d7ee6539515d56f)**
+
+📄 Mi experiencia profesional:
+**[Ver currículum](https://drive.google.com/file/d/1zsDxRKN0D7tVOp7q69go-NHMCAlJDSdM/view)**
+
+---
+
+### 🛠️ Herramientas y tecnologías
+
+| Categoría | Herramientas |
+|-----------|--------------|
+| **Testing** | Postman, Jira, pytest, requests |
+| **Automatización** | Python, API Testing, BVA |
+| **Bases de datos** | MySQL, PostgreSQL |
+| **Diseño** | Figma |
+| **Sistemas** | Linux |
+
+---
+
+### 📫 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciogarcia-qa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauggtz0@gmail.com)
+
+📧 mauggtz0@gmail.com
+
+---
+
+### 📊 GitHub Stats
+
+![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauggtz0&show_icons=true&theme=dark)
+
+---
+
+⭐ *"La calidad no es un acto, es un hábito"*<h1 align="center">Hola Mauricio Garcia</h1>
 <h3 align="center">QA Engineer Jr | IT Support Specialist (10+ yrs) | Manual Testing | Jira | Postman | Digital Transformation Leader | Process Optimization</h3>
 
 - 🔭 Zoo comercializadora **Digital Order Control & Validation System**
