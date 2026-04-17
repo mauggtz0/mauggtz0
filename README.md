@@ -53,6 +53,8 @@ Transformando experiencia en soporte IT en calidad de software. Apasionado por l
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauggtz0@gmail.com)
 
 📧 mauggtz0@gmail.com
+📧 maugarciati@gmail.com
+
 
 ---
 
